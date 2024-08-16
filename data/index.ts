@@ -74,7 +74,7 @@ export const navItems = [
       title: "MindSync: Mobile mental health support",
       des: "Explore the wonders of our Mobile mental health support done in kotlin in andriod studio.",
       img: "/p1.svg",
-      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+      iconLists: ["/adst.png", "/api.svg", "/fire.png", "/Kotlin.png", "/xml.png"],
       link: "https://github.com/pavan-kumar-25/MindSync.git",
     },
     {
@@ -82,7 +82,7 @@ export const navItems = [
       title: "Talk - Chat application",
       des: "Building your own chat application to talk to your friends and to learn the working of the project.",
       img: "/p2.svg",
-      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
+      iconLists: ["/re.svg", "/vite.jpeg", "/tail.svg", "/ts.svg", "/fire.png", "/js.png"],
       link: "https://chat-application-react-ten.vercel.app/",
     },
     {
@@ -90,8 +90,8 @@ export const navItems = [
       title: "VoxAi SaaS - Podcast platform with AI",
       des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
       img: "/p3.svg",
-      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-      link: "https://github.com/adrianhajdin/ai_saas_app",
+      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/convex.png", "/clerk.jpeg"],
+      link: "https://github.com/pavan-kumar-25/VoxAi-Podcast.git",
     },
     {
       id: 4,

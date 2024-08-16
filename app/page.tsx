@@ -17,9 +17,9 @@ export default function Home() {
       <Hero/>
       <Grid/>
       <RecentProjects/>
-      <Experience/>
+      {/* <Experience/> */}
       <Approach/>
-      <Clients/>
+      {/* <Clients/> */}
       <Footer/>
     </div>
    </main>
