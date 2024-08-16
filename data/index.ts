@@ -97,7 +97,7 @@ export const navItems = [
       id: 4,
       title: "ChatBot - Terminal based chat",
       des: "A basic chatbot developed with Node.js, powered by OpenAI.",
-      img: "/p4.svg",
+      img: "/p4.png",
       iconLists: ["/js.png", "/openai.jpeg", "/node.png", "/term.png"],
       link: "https://github.com/pavan-kumar-25/ChatBot-Chatgpt-API.git",
     },
