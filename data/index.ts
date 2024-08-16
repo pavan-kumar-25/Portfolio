@@ -81,7 +81,7 @@ export const navItems = [
       id: 2,
       title: "Talk - Chat application",
       des: "Building your own chat application to talk to your friends and to learn the working of the project.",
-      img: "/p2.svg",
+      img: "/p2.png",
       iconLists: ["/re.svg", "/vite.jpeg", "/tail.svg", "/ts.svg", "/fire.png", "/js.png"],
       link: "https://chat-application-react-ten.vercel.app/",
     },
