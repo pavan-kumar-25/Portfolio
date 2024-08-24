@@ -91,7 +91,7 @@ export const navItems = [
       des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
       img: "/p3.png",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/convex.png", "/clerk.jpeg", "/openai.jpeg", "/shadcn.png"],
-      link: "https://github.com/pavan-kumar-25/VoxAi-Podcast.git",
+      link: "https://vox-ai-podcast.vercel.app/",
     },
     {
       id: 4,
